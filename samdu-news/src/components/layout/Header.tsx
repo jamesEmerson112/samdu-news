@@ -3,6 +3,7 @@ import { NavItem } from '@/types';
 
 const navItems: NavItem[] = [
   { label: 'Home', href: '/' },
+  { label: 'Stories', href: '/stories' },
   { label: 'Posts', href: '/posts' },
 ];
 
